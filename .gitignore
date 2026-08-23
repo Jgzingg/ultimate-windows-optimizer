@@ -1,0 +1,19 @@
+# Ambiente Virtual Python
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backups ou logs locais do projeto (se houver)
+*.log
