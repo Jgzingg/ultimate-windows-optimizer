@@ -4,6 +4,8 @@
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
+> 🌱 **Nota do Autor:** Este é o meu primeiríssimo projeto público aqui no GitHub! Feito com muito carinho para aprender, compartilhar e fazer os PCs da galera voarem. Todo feedback e ajuda são mega bem-vindos! ❤️
+
 O **Ultimate Windows Optimizer** é uma ferramenta de código aberto construída em Python (CustomTkinter) focada em entregar **performance extrema** para usuários de Windows, Gamers e Desenvolvedores. 
 
 O projeto conta com um design moderno (Dark Mode, Fluent UI estilo Catppuccin) e uma arquitetura estritamente voltada para **segurança em primeiro lugar**. Esqueça os otimizadores que destroem o seu sistema; aqui você tem controle e segurança total.
