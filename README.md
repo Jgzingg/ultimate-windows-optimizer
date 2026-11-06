@@ -49,7 +49,7 @@ Antes de injetar QUALQUER Tweak, o UltOpt **força** a criação de um Ponto de 
 
 ### Rodando localmente:
 ```bash
-git clone https://github.com/SeuUsuario/ultimate-windows-optimizer.git
+git clone https://github.com/Jgzingg/ultimate-windows-optimizer.git
 cd ultimate-windows-optimizer
 pip install -r requirements.txt
 python main.py
